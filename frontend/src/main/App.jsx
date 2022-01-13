@@ -1,4 +1,3 @@
-import '../common/template/dependencies'
 import React from 'react'
 
 import Messages from '../common/msg/messages'
